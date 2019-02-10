@@ -52,7 +52,7 @@ add the proper information into your README.md file.
 3. Select the _Markdown (with View) protected_ link and paste it in your README.
 4. Commit your README changes and push to Github.
 5. The change should automatically cause the job to build and after you can go to Github and check your repo. You should see the build status there
-
+[![Build Status](http://localhost:8080/job/test/badge/icon)](http://localhost:8080/job/test/)
 Because we selected _With View_ you will be able to click the build status icon which will take you to the Job in Jenkins.
 
 #### Set up Second Job to Run the Compiled Program

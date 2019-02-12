@@ -39,7 +39,7 @@ heart's desire.
 7. Click _Save_.
 
 SLIP
-
+SLAP
 
 If you want a bit more of a challenge consider setting up Webhooks as opposed to polling. A fun Jenkins exercise that 
 can get you thinking. 

@@ -40,7 +40,7 @@ heart's desire.
 
 SLIP
 SLAP
-
+Slop
 If you want a bit more of a challenge consider setting up Webhooks as opposed to polling. A fun Jenkins exercise that 
 can get you thinking. 
 

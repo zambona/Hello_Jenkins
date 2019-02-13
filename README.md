@@ -3,7 +3,9 @@ This simple exercise is designed to introduce you to Jenkins and continuous inte
 as an exercise for California State University, Chico. I have since modified it to be a simple exercise for anyone
 to use. 
 
-[![Build Status](http://pidelio:8080/job/test/badge/icon)](http://pidelio:8080/job/test/)
+![Build Status](http://pidelio:8080/job/test/badge/icon)(http://pidelio:8080/job/test/)
+
+un truc de ouf
 
  Overview
 1. Fork the repo.

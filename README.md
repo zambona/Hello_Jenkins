@@ -3,9 +3,9 @@ This simple exercise is designed to introduce you to Jenkins and continuous inte
 as an exercise for California State University, Chico. I have since modified it to be a simple exercise for anyone
 to use. 
 
-[![Build Status](http://localhost:8080/job/test/badge/icon)](http://localhost:8080/job/test/style=flat)
+[![Build Status](http://pidelio:8080/job/test/badge/icon)](http://pidelio:8080/job/test/)
 
-### Overview
+ Overview
 1. Fork the repo.
 2. Set up job in Jenkins to connect to your repository and build C++ hello.cpp.
 3. Set up build status badge.

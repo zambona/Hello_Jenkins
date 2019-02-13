@@ -6,7 +6,7 @@ to use.
 ![Build Status](http://pidelio:8080/job/test/badge/icon)(http://pidelio:8080/job/test/)
 
 un truc de ouf
-
+mais de ouf!!
  Overview
 1. Fork the repo.
 2. Set up job in Jenkins to connect to your repository and build C++ hello.cpp.
